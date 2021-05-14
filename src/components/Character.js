@@ -26,8 +26,6 @@ const Character = props => {
         <StyledCharacter>
             <h3>{character.name}</h3>
                 <p>Height: {character.height} - Weight: {character.mass} kg</p>
-                <p></p>
-                <p></p>
         </StyledCharacter>
     )
 }
